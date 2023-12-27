@@ -1,0 +1,10 @@
+.greetingStyle{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.greetingStyle:hover{
+    color: aqua;
+    transition: 2s;
+}
